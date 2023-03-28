@@ -23,7 +23,7 @@ module.exports = {
       title: '',
       template: './src/index.html',
       inject: 'body'
-    })
+    }),
   ],
   module: {
     rules: [
